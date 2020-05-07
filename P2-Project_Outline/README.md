@@ -22,12 +22,12 @@ Map
     Users will be able to use some kind of maps api to get directions
 
 ### Technologies
-Flask
-Python
-React
-JavaScript
-Bootstrap
-Fontawesome
+Flask <br/>
+Python <br/>
+React <br/>
+JavaScript <br/>
+Bootstrap <br/>
+Fontawesome<br/>
 Maps Api
     TBD
 
