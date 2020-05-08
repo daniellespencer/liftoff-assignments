@@ -12,14 +12,14 @@ STFU&EAT is the app for people who can’t make decisions on where to eat. We wi
 
 ### Features
 User Authentication
-    Users can register and login
+    Users can register and login <br/>
 Restaurant Rating/Like
-    Users can rate restaurants by clicking the star of their choice, and double clicking to remove their rating
+    Users can rate restaurants by clicking the star of their choice, and double clicking to remove their rating <br/>
 Search
     Users can type in a keyword and search for restaurants in the database
-    Users can apply filters to search that will also update the list of results
+    Users can apply filters to search that will also update the list of results <br/>
 Map
-    Users will be able to use some kind of maps api to get directions
+    Users will be able to use some kind of maps api to get directions <br/>
 
 ### Technologies
 Flask <br/>
