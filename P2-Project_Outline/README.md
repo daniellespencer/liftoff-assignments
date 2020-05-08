@@ -11,23 +11,23 @@ We have all been there. With a group of friends, starving, but no one can decide
 STFU&EAT is the app for people who can’t make decisions on where to eat. We will provide a random restaurant recommendation for those hangry moments. All local St. Louis CITY restaurants that are under $25 for one person, chains excluded. Have more time? Feel free to browse through our full list of restaurants.
 
 ### Features
-User Authentication
-    Users can register and login <br/>
-Restaurant Rating/Like
-    Users can rate restaurants by clicking the star of their choice, and double clicking to remove their rating <br/>
-Search
+<b>User Authentication</b>
+    Users can register and login <br>
+<b>Restaurant Rating/Like</b>
+    Users can rate restaurants by clicking the star of their choice, and double clicking to remove their rating <br>
+<b>Search</b>
     Users can type in a keyword and search for restaurants in the database
-    Users can apply filters to search that will also update the list of results <br/>
-Map
-    Users will be able to use some kind of maps api to get directions <br/>
+    Users can apply filters to search that will also update the list of results <br>
+<b>Map</b>
+    Users will be able to use some kind of maps api to get directions <br>
 
 ### Technologies
-Flask <br/>
-Python <br/>
-React <br/>
-JavaScript <br/>
-Bootstrap <br/>
-Fontawesome<br/>
+Flask <br>
+Python <br>
+React <br>
+JavaScript <br>
+Bootstrap <br>
+Fontawesome<br>
 Maps Api
     TBD
 
