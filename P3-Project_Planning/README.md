@@ -8,12 +8,16 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+1. Initial Wireframes https://drive.google.com/open?id=1VzVnyF7roRKpIawm4YjnMc6YJCWllSAW
+
+2. MVP Wireframes https://drive.google.com/open?id=1sredG0U5Kh4c_D-Was4eR2S0JyGI-1WJ
+
+3. Wireframes for Perfect App with All Features https://drive.google.com/open?id=1T9JJCJ8RHgbg1Y1R2Un-OLaJM75tiJdz
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+https://trello.com/b/72CnqvxD/stfueat
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+https://github.com/daniellespencer/stfu-and-eat
